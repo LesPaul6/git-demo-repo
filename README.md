@@ -1,6 +1,14 @@
-## Git Demo
+## **Super Awesome WebApp**
 
-### some content 
+### _A Readers Guid to absolutley nothing._
+ 
+ 
+* **_things we will need:_**
+ * potatoes 
+ * Gravy
+ * Sacziuan sauce 
 
-## some more content
-
+* **_things to look out for_**:
+ * pizza
+ * lemons 
+ * Topings  
